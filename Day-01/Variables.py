@@ -22,3 +22,21 @@ file-name = "log"
 class = 5   # reserved keyword
 
 print(2value, file-name, class)"""
+
+
+
+
+
+
+
+
+
+
+
+
+
+"""Output -
+10 Bibhu 1.8
+
+5 report.txt 1.8
+"""
