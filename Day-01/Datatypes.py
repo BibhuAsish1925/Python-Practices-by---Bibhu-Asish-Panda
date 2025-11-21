@@ -86,4 +86,47 @@ print("b (float) =", b)
 print()
 
 c = str(100)
+
 print("c (string) =", c)
+
+
+
+
+
+
+
+
+
+"""Output - 
+a = 10
+temp = -5
+
+voltage = 1.98
+resistance = 47.5
+
+name = Bibhu
+msg = Hello World
+
+flag = True
+error = False
+
+values = [10, 20, 30]
+
+coordinates = (10, 20)
+
+unique_ids = {1, 2, 3}
+
+timing = {'path': 'U1/U2', 'slack': -0.23}
+timing['path'] = U1/U2
+timing['slack'] = -0.23
+
+
+Type of a: <class 'int'>
+
+x (string) = 10
+y (converted to int) = 10
+
+a = 10
+b (float) = 10.0
+
+c (string) = 100"""
