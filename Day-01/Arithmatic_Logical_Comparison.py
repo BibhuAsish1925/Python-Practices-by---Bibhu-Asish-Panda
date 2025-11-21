@@ -35,3 +35,17 @@ print()
 print(h, i, j, m, n)
 print()
 print(o, p, q, r, s, t)
+
+
+
+
+
+
+
+
+"""Output -
+15 5 50 2.0 0 2 100000
+
+15 0 15 20 5
+
+False True True False True False"""
