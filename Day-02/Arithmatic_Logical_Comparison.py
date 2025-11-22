@@ -19,7 +19,7 @@ j = a | b      # Bitwise OR
 m = a << 1     # Left Shift → shifts bits left (multiplies by 2)
 n = a >> 1     # Right Shift → shifts bits right (divides by 2)
 
-# Comparison Operations
+# Comparison Operations 
 
 o = a == b     # Equal to → checks if a and b are equal
 p = a != b     # Not equal to → checks if a and b are different
@@ -28,10 +28,24 @@ r = a < b      # Less than → checks if a is less than b
 s = a >= b     # Greater than or equal to
 t = a <= b     # Less than or equal to
 
-# Print Results
+# Print Results 
 
 print(c, d, e, f, g, k, l)
 print()
 print(h, i, j, m, n)
 print()
 print(o, p, q, r, s, t)
+
+
+
+
+
+
+
+
+"""Output -
+15 5 50 2.0 0 2 100000
+
+15 0 15 20 5
+
+False True True False True False"""
