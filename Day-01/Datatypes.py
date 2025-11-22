@@ -24,6 +24,13 @@ print("msg =", msg)
 
 print()
 
+# complex
+a = complex(2,4)
+b = complex(2+5,4)
+print(a,b)
+
+print()
+
 # bool (Boolean)
 flag = True
 error = False
@@ -86,8 +93,9 @@ print("b (float) =", b)
 print()
 
 c = str(100)
-
 print("c (string) =", c)
+
+
 
 
 
@@ -106,6 +114,8 @@ resistance = 47.5
 
 name = Bibhu
 msg = Hello World
+
+(2+4j) (7+4j)
 
 flag = True
 error = False
@@ -130,3 +140,4 @@ a = 10
 b (float) = 10.0
 
 c (string) = 100"""
+
