@@ -1,4 +1,4 @@
-"""different loop method"""
+"""different looping"""
 
 
 """for loop"""
@@ -89,4 +89,82 @@ print(next(nums))
 
 print()
 print("end")
+
 print()
+
+
+
+
+
+
+
+
+
+
+"""Output -
+for loop
+Hello
+Hello
+Hello
+Hello
+Hello
+
+Hello 1
+15
+Hello 2
+15
+Hello 3
+15
+Hello 4
+15
+Hello 5
+15
+5 10
+bibhu
+
+
+while loops
+0
+1
+2
+3
+4
+5
+
+0
+1
+2
+3
+4
+
+0
+2
+4
+
+
+list comprehension loop
+[0, 1, 2, 3, 4]
+
+
+Loop using map()
+0
+1
+2
+3
+4
+
+
+Loop using recursion (function calling itself)
+Hello
+Hello
+Hello
+Hello
+Hello
+
+
+Loop using iterators
+1
+2
+3
+
+end"""
