@@ -1,17 +1,24 @@
-# different ways to print hello world
+# different ways to print something
 
 print("Hello World")
 
 print()
 
-print("Hello\nWorld")   
+print("Hello\nWorld")
 
-print()
 
 print("""
 Hello
 World
 """)
+
+print()
+
+print("hello world", 1)
+
+print()
+
+print(17*12, 17+13)
 
 
 
@@ -24,6 +31,11 @@ Hello World
 Hello
 World
 
-
 Hello
-World"""
+World
+
+
+hello world 1
+
+204 30"""
+
